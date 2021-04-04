@@ -1,28 +1,28 @@
 body {
   margin: 0;
   text-align: center;
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
 }
 
 h1 {
   line-height: 2;
   font-size: 5.625rem;
   margin: 50px auto 0 auto;
-  font-family: 'Sacramento', cursive;
-  color: #66BFBF;
+  font-family: "Sacramento", cursive;
+  color: #66bfbf;
 }
 
 h2 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   /* font-family: monospace; */
   font-size: 2.5rem;
-  color: #66BFBF;
+  color: #66bfbf;
   font-weight: normal;
 }
 
 h3 {
-  font-family: 'Montserrat', sans-serif;
-  color: #11999E;
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
 }
 
 .top_container {
@@ -47,6 +47,12 @@ hr {
   border-color: #eaf6f6;
   border-width: 20px;
 }
+th {
+  padding-right: 25px;
+}
+td {
+  padding-right: 25px;
+}
 
 .pro {
   text-decoration: underline;
@@ -65,14 +71,14 @@ hr {
 }
 
 .footer-link {
-  color: #11999E;
+  color: #11999e;
 }
 
 .btn {
-  color: #11999E;
+  color: #11999e;
 }
 
-.skill-row {
+.work-row {
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
@@ -90,11 +96,12 @@ hr {
   width: 25%;
   float: left;
   margin-right: 30px;
+  /* border-radius: 50%; */
 }
-p{
-  color:#40514E
+p {
+  color: #40514e;
 }
-.last{
+.last {
   color: #eaf6f6;
 }
 .button {
